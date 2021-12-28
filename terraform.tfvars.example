@@ -1,0 +1,7 @@
+# ------------------
+# AWS Credentials
+# ------------------
+credentials= {
+  access_key = "hard-coded-access-key"
+  secret_key = "hard-coded-secret-key"
+}
